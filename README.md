@@ -17,13 +17,17 @@ phone book web app
 
 ![](imgs/screencapture-localhost-projectcompany-add-contact-php-2020-05-29-12_10_11.png)
 
-### 4. Edit page 
+### 4 All Details Show in dropdown menu
+![](imgs/screencapture-localhost-projectcompany-add-contact-php-2020-05-29-21_29_26.png
+)
+
+### 5. Edit page 
 
 ![](imgs/screencapture-localhost-projectcompany-edit-php-2020-05-29-12_16_13.png)
 
 ##### if you are currecting aur detail then click edit button and edit your data.
 
-### 5. Database
+### 6. Database
 
 ![](databaseimg/databaseimg.png)
 
